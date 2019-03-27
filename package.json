@@ -1,0 +1,19 @@
+{
+  "name": "reactapps",
+  "version": "1.0.0",
+  "description": "react stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Djeylani/tribute-page.git"
+  },
+  "author": "Dee Jeylani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Djeylani/tribute-page/issues"
+  },
+  "homepage": "https://github.com/Djeylani/tribute-page#readme"
+}
